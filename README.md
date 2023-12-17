@@ -1,4 +1,4 @@
-<h1 align="center"> Frontend Development and Mobile Cross-Platform<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Frontend Development and Mobile Cross-Platform <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -32,9 +32,7 @@ development with a desire to apply skills to a larger development team.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>

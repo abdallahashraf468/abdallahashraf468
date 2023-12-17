@@ -37,7 +37,7 @@ development with a desire to apply skills to a larger development team.
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-      <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fangular-16-whats-new-and-what-to-expect-e14e15e500f8&psig=AOvVaw1TLsUD-FyRhg336D81pcf_&ust=1702912289574000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDguefgloMDFQAAAAAdAAAAABAD" width="200"></td>
+      <td><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbetterprogramming.pub%2Fangular-16-whats-new-and-what-to-expect-e14e15e500f8&psig=AOvVaw1TLsUD-FyRhg336D81pcf_&ust=1702912289574000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDguefgloMDFQAAAAAdAAAAABAD?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>

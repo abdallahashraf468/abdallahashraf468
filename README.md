@@ -81,9 +81,3 @@ development with a desire to apply skills to a larger development team.
       </div>
 
 </p>
-
-------
-
-Credit: [zeeid](https://github.com/zeeid)
-
-Last Edited on: 17/10/2022
